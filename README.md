@@ -1,4 +1,4 @@
-###  Hi there, I'm Stervan
+##  Hi there, I'm Stervan
 I'm Stervan, an IT engineer & professional developer from Berlin. I'am working as a Lead Developer of Mobile Application. Check my Website to see my work
 
 
@@ -8,23 +8,30 @@ I'm Stervan, an IT engineer & professional developer from Berlin. I'am working a
 [![](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://de.linkedin.com/in/stervan-o-8b2837222?trk=public_profile_browsemap)
 
 
-
+---
 
 ### Programming Languages
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+
+
+
+---
 ### Discovering New Programming Languages
 [![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+
+
+---
 
 ### Technologies & Others
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
@@ -36,6 +43,7 @@ I'm Stervan, an IT engineer & professional developer from Berlin. I'am working a
 ![Hive](https://img.shields.io/static/v1?style=for-the-badge&message=Hive&color=E31337&logo=Hive&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 
+---
 
 
 
@@ -47,6 +55,8 @@ I'm Stervan, an IT engineer & professional developer from Berlin. I'am working a
   - Arabic 
 </details>
 
+
+---
 <!--
 [![SteroSterka GitHub stats](https://github-readme-stats.vercel.app/api?username=steroSterka)](https://github.com/anuraghazra/github-readme-stats)
 -->
