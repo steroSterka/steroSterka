@@ -1,5 +1,5 @@
 ##  Hi there, I'm Stervan
-I'm Stervan, an IT engineer & professional developer from Berlin. I'am working as a Lead Developer of Mobile Application. Check my Website to see my work
+I'm Stervan, an IT engineer & professional developer from Berlin. I am working as a Lead Developer of Mobile Applications. Check my Website to see my work
 
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stervan.de/)
