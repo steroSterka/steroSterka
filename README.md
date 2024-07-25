@@ -47,6 +47,11 @@ I'm Stervan, an IT engineer & professional developer from Berlin. I am working a
 
 
 
+### Tools 
+[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]()
+
+
+
 <details>
   <summary>Speaking languages</summary>
   - English
