@@ -1,5 +1,5 @@
-##  Hi there, I'm Stervan
-I'm Stervan, an IT engineer and professional developer from Berlin, currently pursuing a master's in Computer Science in Engineering. My focus is on mobile app development, web applications, and AI. I'm passionate about expanding my knowledge and broadening my horizons. Check out my website (It is not up  to date ) to see my work! 
+##  Hi there
+I'm an IT engineer and professional developer from Berlin, currently pursuing a master's in Computer Science in Engineering. My focus is on mobile app development, web applications, and AI. I'm passionate about expanding my knowledge and broadening my horizons. Check out my website (It is not up  to date ) to see my work! 
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://stervan.de/)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/servann)
