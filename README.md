@@ -45,13 +45,6 @@ I'm an IT engineer and professional developer from Berlin, currently pursuing a 
 
 
 
-<details>
-  <summary>Speaking languages</summary>
-  - English
-  - German
-  - Kurdish
-  - Arabic 
-</details>
 
 
 ---
