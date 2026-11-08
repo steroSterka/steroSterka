@@ -1,5 +1,7 @@
 ##  Hi there
-I'm an IT engineer and professional developer from Berlin, currently pursuing a master's in Computer Science in Engineering. My focus is on mobile app development, web applications, and AI. I'm passionate about expanding my knowledge and broadening my horizons. Check out my website (It is not up  to date ) to see my work! 
+I'm a Software Engineer with experience in developing mobile applications, web applications, and backend systems. My interests include Artificial Intelligence, Machine Learning, and building practical software solutions. I'm always looking to expand my knowledge, explore new technologies, and take on challenging projects.
+
+Feel free to explore my repositories and projects!
 
 
 ---
